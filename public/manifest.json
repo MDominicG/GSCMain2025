@@ -1,0 +1,33 @@
+{
+  "name": "GSC Auto - Service Auto București",
+  "short_name": "GSC Auto",
+  "description": "Service auto profesional și centru de constatări daune în București, Sector 2",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#1e40af",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logos/new-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logos/new-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["automotive", "business"],
+  "screenshots": [
+    {
+      "src": "/logos/new-logo.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
